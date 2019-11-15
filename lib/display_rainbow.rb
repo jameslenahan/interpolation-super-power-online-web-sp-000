@@ -5,7 +5,7 @@ def display_rainbow
   puts 
   puts ""
   puts ","
-  puts "B: #{display_rainbow(4)},"
+  puts ""
   puts "I: #{display_rainbow(5)},"
   puts "V: #{display_rainbow(6)},"
 end
